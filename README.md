@@ -1,5 +1,5 @@
 ## Project Overview
-**Cric-ETL** is an end-to-end data engineering project focused on processing IPL match data for analytics and machine learning-based match predictions. The project uses **Apache Airflow**, **PostgreSQL**, and **Google Drive API** to automate ETL workflows, store structured match data, and generate insights for an upcoming **dashboard**.
+**Cric-ETL** is an end-to-end data engineering project focused on processing IPL match data for analytics and machine learning-based match predictions. The project uses **Apache Airflow**, **PostgreSQL** to automate ETL workflows, store structured match data, and generate insights for an upcoming **dashboard**.
 
 ## Key Features
 ✅ **Automated ETL Pipeline** with Apache Airflow  
